@@ -72,8 +72,9 @@ Crack the password of the provided PDF file `My Locked PDF1.pdf` using Networkwa
 
 **📸 Practical Evidence:**
 
-![Base machine](pdf 2.png)
+![Passwork crack ](pdf2.png)
 
+![Network tool](tool.png)
 ---
 
 ## 🧰 Tools & Technologies
