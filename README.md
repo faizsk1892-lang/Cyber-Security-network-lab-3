@@ -44,7 +44,7 @@ Crack the password of the provided PDF file `My Locked PDF1.pdf` using John the 
 
 **📸 Practical Evidence:**
 
-Add your JTR and Johnny screenshots here.
+![Jonny tool](pdf1.png)
 
 ---
 
@@ -72,7 +72,7 @@ Crack the password of the provided PDF file `My Locked PDF1.pdf` using Networkwa
 
 **📸 Practical Evidence:**
 
-Add your Networkwalks screenshots here.
+![Base machine](pdf 2.png)
 
 ---
 
